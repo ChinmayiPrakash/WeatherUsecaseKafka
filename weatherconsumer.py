@@ -5,8 +5,8 @@ from mysql.connector import Error
 
 TOPIC = 'Weather'
 DATABASE = 'weather'
-USERNAME = 'chinmayi'
-PASSWORD = 'chinmayi'
+USERNAME = '*******'
+PASSWORD = '*******'
 
 print("Connecting to the database")
 
